@@ -20,5 +20,11 @@ To build and run this project:
 ![p5](https://github.com/iramaprajapati/todo_task_app/assets/122166121/e61d1346-0853-40c4-ac91-7860a681686c)
 ![p6](https://github.com/iramaprajapati/todo_task_app/assets/122166121/bb9ac5bd-2c6d-40cc-bc01-d93678f174ac)
 ![p7](https://github.com/iramaprajapati/todo_task_app/assets/122166121/332767b4-3bea-4b05-817a-f6f4d69298b3)
+![image](https://github.com/iramaprajapati/todo_task_app/assets/122166121/d47069be-2f99-47b5-bff0-c536f06e57c0)
+![image](https://github.com/iramaprajapati/todo_task_app/assets/122166121/f98dbf2c-ba7d-412d-a436-4ba0a6a2f8ec)
+![image](https://github.com/iramaprajapati/todo_task_app/assets/122166121/788418b6-b4b5-4d7a-90d8-10be0ae1d5d7)
+
+
+
 
 
