@@ -59,6 +59,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 ),
                 SizedBox(height: 20),
                 TextFormField(
+                  keyboardType: TextInputType.emailAddress,
                   decoration: InputDecoration(
                     labelText: 'Email',
                     prefixIcon: Icon(Icons.email),
@@ -71,6 +72,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 ),
                 SizedBox(height: 20),
                 TextFormField(
+                  keyboardType: TextInputType.phone,
                   maxLength: 10,
                   decoration: InputDecoration(
                     labelText: 'Mobile',
