@@ -1,6 +1,6 @@
 # todo_task_app
 
-A new Flutter project.
+A new Flutter project. Simple Task Management (To Do) App with Firebase authentication and data management with Firestore and CRUD operations on tasks.
 
 ## Getting Started
 To build and run this project:
