@@ -74,8 +74,10 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 TextFormField(
                   keyboardType: TextInputType.phone,
                   maxLength: 10,
+
                   decoration: InputDecoration(
                     labelText: 'Mobile',
+                    counterText: '',
                     prefixIcon: Icon(Icons.phone),
                   ),
                   validator: (value) =>

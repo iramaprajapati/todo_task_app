@@ -78,10 +78,11 @@ class _TaskDialogState extends State<TaskDialog> {
 
               TextFormField(
                 decoration:
-                InputDecoration(labelText: 'Expected Duration (hr)'),
+                InputDecoration(labelText: 'Expected Duration (hr)', counterText: '',),
                 maxLength: 2,
                 initialValue: _duration.toString(),
                 keyboardType: TextInputType.number,
+
                 validator: (value) => value!.isEmpty || int.tryParse(value) == null
                     ? 'Enter a valid duration'
                     : null,
